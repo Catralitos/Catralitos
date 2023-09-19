@@ -6,4 +6,4 @@ He also holds a master's degree in computer science from Instituto Superior Téc
 
 He is passionate, creative, and adaptable, with strong technical, communication, and problem-solving skills. He aims to pursue a career where he can apply his knowledge in programming and continue to challenge himself.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Catralitos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
