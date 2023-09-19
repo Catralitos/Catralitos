@@ -5,3 +5,5 @@ He earned his bachelor's degree in computer science from Faculdade de Ciências 
 He also holds a master's degree in computer science from Instituto Superior Técnico, where he learned the fundamentals and advanced topics of game development, prototyping, and user experience. He has also worked as a monitor for Verão na ULisboa, a summer program that teaches high school students how to create their own games using Gamemaker Studio 2. 
 
 He is passionate, creative, and adaptable, with strong technical, communication, and problem-solving skills. He aims to pursue a career where he can apply his knowledge in programming and continue to challenge himself.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
